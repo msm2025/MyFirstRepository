@@ -1,3 +1,8 @@
-# MyFirstRepository
+# 19173029 문세미
 
-Hello my name is semi
+## 1주차 과제
+
+## 2주차 과제
+JPG/19173029 문세미 2주차 과제.JPG
+
+## 3주차 과제
