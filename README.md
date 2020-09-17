@@ -3,6 +3,6 @@
 ## 1주차 과제
 
 ## 2주차 과제
-<img width="" height="" src="./JPG/19173029 문세미 2주차 과제.jpg"></img>
+<img width="" height="" src="./JPG/19173029 문세미 2주차 과제.JPG"></img>
 
 ## 3주차 과제
