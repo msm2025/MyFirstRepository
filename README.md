@@ -35,3 +35,14 @@ LMS에 제출
 ## 7주차 과제 (버튼 클릭이용하여 이미지 바꾸기)
 <img width="" height="" src="./JPG/7주차 과제.JPG"></img>
 <img width="" height="" src="./JPG/7주차 과제2.JPG"></img>
+
+## 8주차 중간고사
+
+## 9주차 과제
+스크롤, 넓이높이값 띄우기
+<img width="" height="" src="./JPG/9주차과제1.JPG"></img>
+<img width="" height="" src="./JPG/9주차과제1(넓이).JPG"></img>
+<img width="" height="" src="./JPG/9주차과제1(높이).JPG"></img>
+<img width="" height="" src="./JPG/9주차과제2.JPG"></img>
+<img width="" height="" src="./JPG/9주차과제2(넓이).JPG"></img>
+<img width="" height="" src="./JPG/9주차과제2(높이).JPG"></img>
