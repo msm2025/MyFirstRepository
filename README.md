@@ -47,4 +47,4 @@ LMS에 제출
 <img width="" height="" src="./JPG/9주차과제2(높이).JPG"></img>
 
 ## 10주차 과제
-<img width="" height="" src="./JPG/10주차 과제.JPG"></img>
+<img width="" height="" src="./JPG/10주차 과제 실습창.JPG"></img>
