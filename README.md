@@ -48,3 +48,4 @@ LMS에 제출
 
 ## 10주차 과제
 <img width="" height="" src="./JPG/10주차 과제 실습창.JPG"></img>
+<img width="" height="" src="./JPG/10주차 과제 실습창 수정.JPG"></img>
