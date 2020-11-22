@@ -55,3 +55,7 @@ LMS에 제출
 <img width="" height="" src="./JPG/11주차 과제2.JPG"></img>
 <img width="" height="" src="./JPG/11주차 과제3.JPG"></img>
 <img width="" height="" src="./JPG/11주차 과제4.JPG"></img>
+
+## 12주차 과제 (웹으로 요청하기)
+<img width="" height="" src="./JPG/12주차 과제1.JPG"></img>
+<img width="" height="" src="./JPG/12주차 과제2.JPG"></img>
